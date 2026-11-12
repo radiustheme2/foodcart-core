@@ -80,6 +80,8 @@ $demo_config = array_merge(
 // Initialize the demo importer.
 try {
 	new RT\FoodcartCore\DemoImporter\Core( $demo_config );
+	new RT\FoodcartCore\DemoImporter\FastImporter();
+	new RT\FoodcartCore\DemoImporter\Handlers\FoodMenuHandler();
 } catch ( Exception $e ) {
 	wp_die( 'Failed to initialize Demo Importer: ' . esc_html( $e->getMessage() ) );
 }
