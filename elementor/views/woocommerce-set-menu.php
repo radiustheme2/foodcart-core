@@ -44,10 +44,14 @@ $thumb_size = 'foodcart-size10';
 			foreach ( $cats as $cat ) {
 			if ( $cat['cat_multi_box'] != 0 ) {
 		?>
-		<li class="nav-item">
-			<a class="<?php if ( $y == 1 ){ ?>active<?php } ?>" href="#related<?php echo esc_attr( $cat['cat_multi_box'] ); ?>" data-toggle="tab" aria-expanded="false"><?php 
-			$term = get_term( $cat['cat_multi_box'], 'product_cat'); echo $term->name; ?></a>
-		</li>
+            <li class="nav-item">
+                <a class="<?php if ( $y == 1 ){ ?>active<?php } ?>" href="#related<?php echo esc_attr( $cat['cat_multi_box'] ); ?>" data-toggle="tab" aria-expanded="false"><?php
+                $term = get_term( $cat['cat_multi_box'], 'product_cat');
+                if ( $term && ! is_wp_error( $term ) ) {
+                    echo esc_html( $term->name );
+                }
+                ?></a>
+            </li>
 		<?php } ?>	
 	<?php $y++; } } ?>
 	</ul>

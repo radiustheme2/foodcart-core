@@ -61,7 +61,14 @@ $content_limit = $data['post_excerpt_length'];
 		<div class="ms-section left-slide1 <?php if ( $y == 1 ) { ?>active<?php } ?>">		
 			<div class="ms-food-content-box">
 				<div class="item-heading">
-					<h2 class="item-title"><?php $term = get_term( $cat['cat_multi_box'], 'product_cat'); echo wp_kses_post( $term->name ); ?></h2>
+                    <?php
+                        $term = get_term( $cat['cat_multi_box'], 'product_cat');
+                    ?>
+                    <?php if ( $term && !is_wp_error( $term ) ){ ?>
+                        <h2 class="item-title">
+                            <?php  echo wp_kses_post( $term->name ); ?>
+                        </h2>
+                    <?php } ?>
 				</div>				
 		<?php
 			$product_args = array(
@@ -150,8 +157,13 @@ $content_limit = $data['post_excerpt_length'];
 		<?php $i = 1; foreach ( $data['category_list'] as $category_lists ) { ?>
 		<div class="ms-section right-slide<?php echo esc_html( $i ); ?> <?php if ( $i == 1 ) { ?>active<?php } ?>">
 			<div class="d-none d-xl-block d-lg-block">
-				<h2 class="item-title"><?php $term = get_term( $category_lists['cat_multi_box'], 'product_cat'); echo wp_kses_post( $term->name ); ?></h2>
-				<?php if ( !empty( $category_lists['woo_cat_image']['id'] ) ) { 
+				<h2 class="item-title"><?php
+				$term = get_term( $category_lists['cat_multi_box'], 'product_cat');
+				if ( $term && ! is_wp_error( $term ) ) {
+					echo wp_kses_post( $term->name );
+				}
+				?></h2>
+				<?php if ( !empty( $category_lists['woo_cat_image']['id'] ) ) {
 					echo wp_get_attachment_image( $category_lists['woo_cat_image']['id'], 'full' ); 
 				 } else { 
 					echo '<img class="wp-post-image" src="' . FoodcartTheme_Helper::get_img( 'noimage.jpg' ) . '" alt="'.get_the_title().'">';

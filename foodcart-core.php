@@ -3,7 +3,7 @@
 Plugin Name: Foodcart Core
 Plugin URI: https://www.radiustheme.com
 Description: Foodcart Core Plugin for Foodcart Theme
-Version: 2.1
+Version: 2.2
 Author: RadiusTheme
 Author URI: https://www.radiustheme.com
 */
@@ -11,11 +11,17 @@ Author URI: https://www.radiustheme.com
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 if ( ! defined( 'FOODCART_CORE' ) ) {
-	define( 'FOODCART_CORE',                   ( WP_DEBUG ) ? time() : '2.1' );
+	define( 'FOODCART_CORE',                   ( WP_DEBUG ) ? time() : '2.2' );
 	define( 'FOODCART_CORE_THEME_PREFIX',      'foodcart' );
 	define( 'FOODCART_CORE_THEME_PREFIX_VAR',  'foodcart' );
-	define( 'FOODCART_CORE_CPT_PREFIX',        'foodcart' );	
+	define( 'FOODCART_CORE_CPT_PREFIX',        'foodcart' );
+
+	// Plugin paths
+	define( 'FOODCART_CORE_BASE_DIR',          plugin_dir_path( __FILE__ ) );
+	define( 'FOODCART_CORE_BASE_URL',          plugin_dir_url( __FILE__ ) );
 }
+
+
 
 class Foodcart_Core {
 
@@ -73,8 +79,10 @@ class Foodcart_Core {
 	}
 
 	public function demo_importer() {
-		require_once 'demo-importer.php';
+		//require_once 'demo-importer.php';
+        require_once 'demo-importer/init.php';
 	}
+
 	public function load_textdomain() {
 		load_plugin_textdomain( $this->plugin , false, dirname( plugin_basename( __FILE__ ) ) . '/languages' ); 
 	}

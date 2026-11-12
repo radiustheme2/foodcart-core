@@ -93,8 +93,10 @@ $col_class = "rt-grid-item col-lg-{$data['col_lg']} col-md-{$data['col_md']} col
 								<?php
 									$i = 1;
 									$term_lists = get_the_terms( get_the_ID(), 'foodcart_recipe_category' );
-									foreach ( $term_lists as $term_list ){
-										$link = get_term_link( $term_list->term_id, 'foodcart_recipe_category' ); ?><?php if ( $i > 1 ){ echo esc_html( ', ' ); } ?><a href="<?php echo esc_url( $link ); ?>"><?php echo esc_html( $term_list->name ); ?></a><?php $i++; } ?>
+									if ( $term_lists && ! is_wp_error( $term_lists ) ) {
+										foreach ( $term_lists as $term_list ){
+											$link = get_term_link( $term_list->term_id, 'foodcart_recipe_category' ); ?><?php if ( $i > 1 ){ echo esc_html( ', ' ); } ?><a href="<?php echo esc_url( $link ); ?>"><?php echo esc_html( $term_list->name ); ?></a><?php $i++; }
+									} ?>
 							</span>
 							<?php } ?>
 							<?php if ( FoodcartTheme::$options['foodcart_recipe_blog_views'] && function_exists( 'foodcart_views' ) ) { ?>
