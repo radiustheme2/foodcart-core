@@ -1,0 +1,1957 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodcart Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-29 11:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: foodcart-core"
+
+#: elementor/widgets/offer-box.php:59
+msgid "$15"
+msgstr ""
+
+#: elementor/widgets/offer-box.php:65
+msgid ".99"
+msgstr ""
+
+#: elementor/widgets/book-table.php:55
+msgid "09:00 am - 22:00 pm"
+msgstr ""
+
+#: post-meta.php:149 post-meta.php:168
+msgid "0px"
+msgstr ""
+
+#: elementor/widgets/upmenu.php:22
+#: elementor/widgets/woocommerce-tab-menu-2.php:20
+#: elementor/widgets/team-grid.php:22 elementor/widgets/testimonial.php:21
+#: elementor/widgets/woocommerce-set-menu.php:20
+#: elementor/widgets/rt-gallery.php:20 elementor/widgets/post-grid.php:21
+#: elementor/widgets/team-slider.php:22 elementor/widgets/recipe-grid.php:20
+#: elementor/widgets/logo-slider.php:20
+msgid "1 Col"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:233 elementor/widgets/team-slider.php:262
+#: elementor/widgets/logo-slider.php:173
+msgid "1 Second"
+msgstr ""
+
+#: post-meta.php:159 post-meta.php:178
+msgid "100px"
+msgstr ""
+
+#: post-meta.php:150 post-meta.php:169
+msgid "10px"
+msgstr ""
+
+#: elementor/widgets/upmenu.php:23
+#: elementor/widgets/woocommerce-tab-menu-2.php:21
+#: elementor/widgets/team-grid.php:23 elementor/widgets/testimonial.php:22
+#: elementor/widgets/woocommerce-set-menu.php:21
+#: elementor/widgets/rt-gallery.php:21 elementor/widgets/post-grid.php:22
+#: elementor/widgets/team-slider.php:23 elementor/widgets/recipe-grid.php:21
+#: elementor/widgets/logo-slider.php:21
+msgid "2 Col"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:232 elementor/widgets/team-slider.php:261
+#: elementor/widgets/logo-slider.php:172
+msgid "2 Seconds"
+msgstr ""
+
+#: post-meta.php:151 post-meta.php:170
+msgid "20px"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:49
+msgid "29 Street, Melbourne City, Australia # 34 Road, House #10."
+msgstr ""
+
+#: elementor/widgets/upmenu.php:24
+#: elementor/widgets/woocommerce-tab-menu-2.php:22
+#: elementor/widgets/team-grid.php:24 elementor/widgets/testimonial.php:23
+#: elementor/widgets/woocommerce-set-menu.php:22
+#: elementor/widgets/rt-gallery.php:22 elementor/widgets/post-grid.php:23
+#: elementor/widgets/team-slider.php:24 elementor/widgets/recipe-grid.php:22
+#: elementor/widgets/logo-slider.php:22
+msgid "3 Col"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:231 elementor/widgets/team-slider.php:260
+#: elementor/widgets/logo-slider.php:171
+msgid "3 Seconds"
+msgstr ""
+
+#: post-meta.php:152 post-meta.php:171
+msgid "30px"
+msgstr ""
+
+#: elementor/widgets/upmenu.php:25
+#: elementor/widgets/woocommerce-tab-menu-2.php:23
+#: elementor/widgets/team-grid.php:25 elementor/widgets/testimonial.php:24
+#: elementor/widgets/woocommerce-set-menu.php:23
+#: elementor/widgets/rt-gallery.php:23 elementor/widgets/post-grid.php:24
+#: elementor/widgets/team-slider.php:25 elementor/widgets/recipe-grid.php:23
+#: elementor/widgets/logo-slider.php:23
+msgid "4 Col"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:230 elementor/widgets/team-slider.php:259
+#: elementor/widgets/logo-slider.php:170
+msgid "4 Seconds"
+msgstr ""
+
+#: post-meta.php:153 post-meta.php:172
+msgid "40px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:24
+msgid "5 Col"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:229 elementor/widgets/team-slider.php:258
+#: elementor/widgets/logo-slider.php:169
+msgid "5 Seconds"
+msgstr ""
+
+#: post-meta.php:154 post-meta.php:173
+msgid "50px"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:54
+msgid "59 Street, 06 Lane, Newyork"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:43
+msgid "59 Street, loseagne, Newyork Road City"
+msgstr ""
+
+#: elementor/widgets/upmenu.php:26
+#: elementor/widgets/woocommerce-tab-menu-2.php:24
+#: elementor/widgets/team-grid.php:26 elementor/widgets/testimonial.php:25
+#: elementor/widgets/woocommerce-set-menu.php:24
+#: elementor/widgets/rt-gallery.php:24 elementor/widgets/post-grid.php:25
+#: elementor/widgets/team-slider.php:26 elementor/widgets/recipe-grid.php:24
+#: elementor/widgets/logo-slider.php:25
+msgid "6 Col"
+msgstr ""
+
+#: post-meta.php:155 post-meta.php:174
+msgid "60px"
+msgstr ""
+
+#: post-meta.php:156 post-meta.php:175
+msgid "70px"
+msgstr ""
+
+#: post-meta.php:157 post-meta.php:176
+msgid "80px"
+msgstr ""
+
+#: post-meta.php:158 post-meta.php:177
+msgid "90px"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:19
+msgid "About Image Text"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:34
+msgid "About Style"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:36
+msgid "About Style 1"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:37
+msgid "About Style 2 ( Content Fulied )"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:61 elementor/widgets/book-table.php:43
+#: elementor/widgets/faq.php:32
+msgid "Add as many item as you want"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:57
+msgid "Add as many logos as you want"
+msgstr ""
+
+#: elementor/widgets/slider.php:38
+msgid "Add as many slides as you want"
+msgstr ""
+
+#: post-meta.php:310
+msgid "Add New Count"
+msgstr ""
+
+#: post-meta.php:358
+msgid "Add New Ingredient"
+msgstr ""
+
+#: post-meta.php:388
+msgid "Add New Nutrition Item"
+msgstr ""
+
+#: post-meta.php:284
+msgid "Add New Skill"
+msgstr ""
+
+#: elementor/views/woocommerce-vertical-slider.php:74
+#: elementor/views/woocommerce-set-menu.php:117
+msgid "Add to cart"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:48 elementor/widgets/contact-box.php:53
+#: elementor/widgets/contact-address.php:42
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:45 elementor/widgets/title.php:49
+#: elementor/widgets/offer-box.php:37 elementor/widgets/book-table.php:34
+#: elementor/widgets/info-box.php:50
+msgid "Align Center"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:44 elementor/widgets/title.php:48
+#: elementor/widgets/offer-box.php:36 elementor/widgets/book-table.php:33
+#: elementor/widgets/info-box.php:49
+msgid "Align Left"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:46 elementor/widgets/title.php:50
+#: elementor/widgets/offer-box.php:38 elementor/widgets/book-table.php:35
+#: elementor/widgets/info-box.php:51
+msgid "Align right"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:35 elementor/widgets/upmenu.php:41
+#: elementor/widgets/woocommerce-tab-menu-2.php:33
+#: elementor/widgets/woocommerce-vertical-slider.php:39
+#: elementor/widgets/team-grid.php:34 elementor/widgets/testimonial.php:40
+#: elementor/widgets/woocommerce-set-menu.php:33
+#: elementor/widgets/rt-gallery.php:40 elementor/widgets/post-grid.php:37
+#: elementor/widgets/team-slider.php:46 elementor/widgets/recipe-grid.php:33
+msgid "All Categories"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:78
+msgid "All our projects incorporate a unique artistic image functional."
+msgstr ""
+
+#: elementor/widgets/counter.php:95 elementor/widgets/progress-circle.php:83
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor/widgets/counter.php:102 elementor/widgets/progress-circle.php:90
+msgid "Animation Steps"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:140
+#: elementor/widgets/woocommerce-tab-menu-2.php:109
+#: elementor/widgets/woocommerce-set-menu.php:109
+#: elementor/widgets/rt-gallery.php:119 elementor/widgets/recipe-grid.php:71
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/slider.php:118 elementor/widgets/testimonial.php:208
+#: elementor/widgets/team-slider.php:237 elementor/widgets/logo-slider.php:148
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:227 elementor/widgets/team-slider.php:256
+#: elementor/widgets/logo-slider.php:167
+msgid "Autoplay Interval"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:242 elementor/widgets/team-slider.php:271
+#: elementor/widgets/logo-slider.php:182
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: post-meta.php:208
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:110
+#: elementor/widgets/team-grid.php:204 elementor/widgets/team-slider.php:196
+msgid "Background For the Element item"
+msgstr ""
+
+#: post-meta.php:207 elementor/widgets/video.php:41
+msgid "Background Image"
+msgstr ""
+
+#: post-meta.php:183
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:218
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:213
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:203
+msgid "Banner Background Type"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:54
+msgid "Bgcolor"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:105
+msgid "bgcolor Color"
+msgstr ""
+
+#: elementor/widgets/book-table.php:63
+msgid "BOOK NOW"
+msgstr ""
+
+#: elementor/widgets/book-table.php:16
+msgid "Book Table"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:37
+msgid "Branding"
+msgstr ""
+
+#: post-meta.php:193
+msgid "Breadcrumb"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:78
+#: elementor/widgets/text-with-button.php:83
+#: elementor/widgets/rt-gallery.php:156
+#: elementor/widgets/about-image-text.php:68
+msgid "Button Display"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:175
+#: elementor/widgets/team-grid.php:149
+#: elementor/widgets/woocommerce-set-menu.php:181
+#: elementor/widgets/rt-gallery.php:182 elementor/widgets/recipe-grid.php:130
+msgid "Button Link"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:87
+#: elementor/widgets/text-with-button.php:92
+msgid "Button Style"
+msgstr ""
+
+#: elementor/widgets/slider.php:79 elementor/widgets/contact-box.php:98
+#: elementor/widgets/split-slider.php:78
+#: elementor/widgets/woocommerce-tab-menu-2.php:168
+#: elementor/widgets/text-with-button.php:103
+#: elementor/widgets/team-grid.php:142 elementor/widgets/offer-box.php:82
+#: elementor/widgets/woocommerce-set-menu.php:174
+#: elementor/widgets/rt-gallery.php:175
+#: elementor/widgets/about-image-text.php:77 elementor/widgets/cta.php:72
+#: elementor/widgets/book-table.php:62 elementor/widgets/info-box.php:131
+#: elementor/widgets/recipe-grid.php:123
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/slider.php:85 elementor/widgets/contact-box.php:105
+#: elementor/widgets/text-with-button.php:110
+#: elementor/widgets/about-image-text.php:84 elementor/widgets/cta.php:79
+#: elementor/widgets/book-table.php:68
+msgid "Button URL"
+msgstr ""
+
+#: elementor/widgets/cta.php:17
+msgid "Call to Action"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:106
+#: elementor/widgets/woocommerce-tab-menu-2.php:64
+#: elementor/widgets/woocommerce-vertical-slider.php:61
+#: elementor/widgets/team-grid.php:66 elementor/widgets/testimonial.php:90
+#: elementor/widgets/woocommerce-set-menu.php:64
+#: elementor/widgets/rt-gallery.php:66 elementor/widgets/post-grid.php:72
+#: elementor/widgets/team-slider.php:80 elementor/widgets/recipe-grid.php:59
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:74
+#: elementor/widgets/woocommerce-set-menu.php:74
+#: elementor/widgets/rt-gallery.php:75
+msgid "Category Name Display"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:83
+msgid "Category Tab Display"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:47 elementor/widgets/counter.php:41
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:59
+msgid "Circle Height"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:47
+msgid "Circle Number"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:65
+msgid "Circle thickness"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:53
+msgid "Circle Width"
+msgstr ""
+
+#: elementor/widgets/counter.php:113
+msgid "Colors"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:90
+#: elementor/widgets/team-grid.php:97 elementor/widgets/team-slider.php:110
+msgid "Conents"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:16
+msgid "Contact Address"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:16
+msgid "Contact Box"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:17
+msgid "Contact Info"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:42
+#: elementor/widgets/text-with-button.php:77 elementor/widgets/offer-box.php:70
+#: elementor/widgets/about-image-text.php:62 elementor/widgets/info-box.php:117
+#: elementor/widgets/progress-circle.php:77
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:163
+#: elementor/widgets/offer-box.php:132
+#: elementor/widgets/about-image-text.php:128
+#: elementor/widgets/info-box.php:165
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:79
+#: elementor/widgets/team-grid.php:84 elementor/widgets/rt-gallery.php:140
+#: elementor/widgets/team-slider.php:98
+msgid "Content Display"
+msgstr ""
+
+#: post-meta.php:164
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:145
+msgid "Content Padding Top"
+msgstr ""
+
+#: elementor/widgets/cta.php:58
+msgid "Content Text "
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:88
+#: elementor/widgets/team-grid.php:94 elementor/widgets/team-slider.php:108
+msgid "Content Type"
+msgstr ""
+
+#: post-meta.php:338
+msgid "Cooking Time"
+msgstr ""
+
+#: post-meta.php:135
+msgid "Copyright Area"
+msgstr ""
+
+#: post-meta.php:318
+msgid "Count"
+msgstr ""
+
+#: post-meta.php:313
+msgid "Count Name"
+msgstr ""
+
+#: elementor/widgets/counter.php:17
+msgid "Counter"
+msgstr ""
+
+#: elementor/widgets/counter.php:128
+msgid "Counter Color"
+msgstr ""
+
+#: elementor/widgets/counter.php:155
+msgid "Counter Font Size"
+msgstr ""
+
+#: elementor/widgets/counter.php:89
+msgid "Counter Number"
+msgstr ""
+
+#: elementor/widgets/counter.php:104 elementor/widgets/progress-circle.php:92
+msgid "Counter steps eg. 10"
+msgstr ""
+
+#: elementor/widgets/cta.php:32
+msgid "CTA Style"
+msgstr ""
+
+#: elementor/widgets/counter.php:62 elementor/widgets/info-box.php:61
+msgid "Custom Image"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:127
+#: elementor/widgets/woocommerce-tab-menu-2.php:97
+#: elementor/widgets/woocommerce-vertical-slider.php:72
+#: elementor/widgets/team-grid.php:77 elementor/widgets/testimonial.php:101
+#: elementor/widgets/woocommerce-set-menu.php:97
+#: elementor/widgets/rt-gallery.php:107 elementor/widgets/post-grid.php:65
+#: elementor/widgets/team-slider.php:91
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr ""
+
+#: post-meta.php:46
+msgid "Custom Sidebar"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:35 elementor/widgets/contact-box.php:35
+#: elementor/widgets/contact-box.php:90
+#: elementor/widgets/contact-address.php:35
+#: elementor/widgets/text-with-button.php:95
+#: elementor/widgets/testimonial.php:69 elementor/widgets/cta.php:45
+#: elementor/widgets/progress-circle.php:40
+msgid "Dark Background"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:125
+#: elementor/widgets/woocommerce-tab-menu-2.php:95
+#: elementor/widgets/woocommerce-vertical-slider.php:70
+#: elementor/widgets/team-grid.php:75 elementor/widgets/testimonial.php:99
+#: elementor/widgets/woocommerce-set-menu.php:95
+#: elementor/widgets/rt-gallery.php:105 elementor/widgets/post-grid.php:63
+#: elementor/widgets/team-slider.php:89
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: post-meta.php:29 post-meta.php:30 post-meta.php:38 post-meta.php:61
+#: post-meta.php:71 post-meta.php:81 post-meta.php:92 post-meta.php:102
+#: post-meta.php:115 post-meta.php:128 post-meta.php:138 post-meta.php:148
+#: post-meta.php:167 post-meta.php:186 post-meta.php:196 post-meta.php:206
+#: post-meta.php:443
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:139
+#: elementor/widgets/woocommerce-tab-menu-2.php:108
+#: elementor/widgets/woocommerce-set-menu.php:108
+#: elementor/widgets/rt-gallery.php:118 elementor/widgets/recipe-grid.php:70
+msgid "Desecending"
+msgstr ""
+
+#: post-meta.php:261 post-meta.php:436
+msgid "Designation"
+msgstr ""
+
+#: elementor/widgets/team-grid.php:114 elementor/widgets/testimonial.php:108
+#: elementor/widgets/team-slider.php:128
+msgid "Designation Display"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:191
+#: elementor/widgets/team-grid.php:165 elementor/widgets/testimonial.php:145
+#: elementor/widgets/woocommerce-set-menu.php:197
+#: elementor/widgets/rt-gallery.php:199 elementor/widgets/post-grid.php:111
+#: elementor/widgets/team-slider.php:157 elementor/widgets/recipe-grid.php:147
+#: elementor/widgets/logo-slider.php:84
+msgid "Desktops: > 1199px"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:198
+#: elementor/widgets/team-grid.php:172 elementor/widgets/testimonial.php:152
+#: elementor/widgets/woocommerce-set-menu.php:204
+#: elementor/widgets/rt-gallery.php:206 elementor/widgets/post-grid.php:118
+#: elementor/widgets/team-slider.php:164 elementor/widgets/recipe-grid.php:154
+#: elementor/widgets/logo-slider.php:91
+msgid "Desktops: > 991px"
+msgstr ""
+
+#: elementor/widgets/info-box.php:104 elementor/widgets/info-box.php:111
+msgid "Digital Solutions"
+msgstr ""
+
+#: post-meta.php:188 post-meta.php:198
+msgid "Disable"
+msgstr ""
+
+#: post-meta.php:63 post-meta.php:73 post-meta.php:94 post-meta.php:130
+#: post-meta.php:140
+msgid "Disabled"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:72
+#: elementor/widgets/about-image-text.php:51
+msgid "Discover"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:94
+#: elementor/widgets/team-grid.php:100 elementor/widgets/team-slider.php:114
+msgid "Display contents from Editor or Excerpt field"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:156
+#: elementor/widgets/woocommerce-tab-menu-2.php:123
+#: elementor/widgets/woocommerce-set-menu.php:123
+msgid "Display Image"
+msgstr ""
+
+#: post-meta.php:320
+msgid "eg. 325"
+msgstr ""
+
+#: post-meta.php:294
+msgid "eg. 75"
+msgstr ""
+
+#: post-meta.php:315
+msgid "eg. Client Reviews"
+msgstr ""
+
+#: post-meta.php:289
+msgid "eg. Marketing"
+msgstr ""
+
+#: post-meta.php:265 elementor/widgets/contact-info.php:71
+#: elementor/widgets/contact-box.php:65
+#: elementor/widgets/contact-address.php:54
+msgid "Email"
+msgstr ""
+
+#: post-meta.php:187 post-meta.php:197
+msgid "Enable"
+msgstr ""
+
+#: elementor/widgets/slider.php:122 elementor/widgets/testimonial.php:212
+#: elementor/widgets/team-slider.php:241 elementor/widgets/logo-slider.php:152
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: elementor/widgets/slider.php:104 elementor/widgets/testimonial.php:194
+#: elementor/widgets/team-slider.php:223 elementor/widgets/logo-slider.php:134
+msgid "Enable or disable navigation arrow. Default: On"
+msgstr ""
+
+#: elementor/widgets/slider.php:113 elementor/widgets/logo-slider.php:143
+msgid "Enable or disable navigation dot. Default: Off"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:203 elementor/widgets/team-slider.php:232
+msgid "Enable or disable navigation dots. Default: Off"
+msgstr ""
+
+#: post-meta.php:62 post-meta.php:72 post-meta.php:93 post-meta.php:129
+#: post-meta.php:139
+msgid "Enabled"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:189
+#: elementor/widgets/woocommerce-tab-menu-2.php:145
+#: elementor/widgets/woocommerce-set-menu.php:151
+msgid "Enter Post ID that will not display"
+msgstr ""
+
+#: post-meta.php:368
+msgid "Enter Quantity eg. 60"
+msgstr ""
+
+#: post-meta.php:373
+msgid "Enter Quantity unit. Like gm, ml, litre, cup , tea spoon"
+msgstr ""
+
+#: post-meta.php:350
+msgid "Enter text eg. 2 or 5"
+msgstr ""
+
+#: post-meta.php:335 post-meta.php:340 post-meta.php:345
+msgid "Enter text eg. 20 Mins , 1 Hour"
+msgstr ""
+
+#: post-meta.php:363
+msgid "Enter text eg. 60 ml extra virgin olive oil"
+msgstr ""
+
+#: post-meta.php:384
+msgid "Enter text eg. per serving"
+msgstr ""
+
+#: post-meta.php:393
+msgid "Enter text eg. Protine: 6.60g"
+msgstr ""
+
+#: post-meta.php:271 post-meta.php:421
+msgid "Enter your social links here"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:91
+#: elementor/widgets/team-grid.php:96 elementor/widgets/team-slider.php:111
+msgid "Excerpts"
+msgstr ""
+
+#: elementor/widgets/faq.php:37
+msgid "Faq Number"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:65 elementor/widgets/contact-box.php:71
+#: elementor/widgets/contact-address.php:60
+msgid "Fax"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:72
+msgid "Feature works"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:61
+msgid "Fgcolor"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:111
+msgid "fgcolor Color"
+msgstr ""
+
+#. Name of the plugin
+msgid "Foodcart Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Foodcart Core Plugin for Foodcart Theme"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:16
+msgid "Foodcart Gallery"
+msgstr ""
+
+#: post-meta.php:125
+msgid "Footer Area"
+msgstr ""
+
+#: post-meta.php:112
+msgid "Footer Layout"
+msgstr ""
+
+#: elementor/widgets/offer-box.php:52
+msgid "FREE DELIVERY"
+msgstr ""
+
+#: post-meta.php:39
+msgid "Full Width"
+msgstr ""
+
+#: elementor/widgets/slider.php:18
+msgid "FullScreen Slider"
+msgstr ""
+
+#: post-types.php:37 post-types.php:38
+msgid "Gallery"
+msgstr ""
+
+#: post-types.php:65
+msgid "Gallery Categories"
+msgstr ""
+
+#: post-types.php:64
+msgid "Gallery Category"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:27 elementor/widgets/slider.php:33
+#: elementor/widgets/contact-box.php:27 elementor/widgets/split-slider.php:45
+#: elementor/widgets/contact-address.php:27 elementor/widgets/upmenu.php:51
+#: elementor/widgets/woocommerce-tab-menu-2.php:43
+#: elementor/widgets/text-with-button.php:29
+#: elementor/widgets/woocommerce-vertical-slider.php:49
+#: elementor/widgets/team-grid.php:44 elementor/widgets/counter.php:33
+#: elementor/widgets/offer-box.php:29 elementor/widgets/testimonial.php:50
+#: elementor/widgets/woocommerce-set-menu.php:43
+#: elementor/widgets/rt-gallery.php:50
+#: elementor/widgets/about-image-text.php:29 elementor/widgets/post-grid.php:46
+#: elementor/widgets/cta.php:27 elementor/widgets/video.php:30
+#: elementor/widgets/nav-menu.php:35 elementor/widgets/book-table.php:26
+#: elementor/widgets/info-box.php:29 elementor/widgets/faq.php:26
+#: elementor/widgets/team-slider.php:56 elementor/widgets/recipe-grid.php:43
+#: elementor/widgets/logo-slider.php:42 elementor/widgets/progress-bar.php:31
+#: elementor/widgets/progress-circle.php:32
+msgid "General"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:85
+#: elementor/widgets/woocommerce-set-menu.php:85
+msgid "Grid"
+msgstr ""
+
+#: elementor/widgets/counter.php:84
+msgid "Happy Clients"
+msgstr ""
+
+#: post-meta.php:99
+msgid "Header Layout"
+msgstr ""
+
+#: post-meta.php:89
+msgid "Header On/Off"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:31
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:158 elementor/widgets/title.php:61
+#: elementor/widgets/woocommerce-tab-menu-2.php:76
+#: elementor/widgets/woocommerce-tab-menu-2.php:125
+#: elementor/widgets/text-with-button.php:58 elementor/widgets/counter.php:52
+#: elementor/widgets/woocommerce-set-menu.php:76
+#: elementor/widgets/woocommerce-set-menu.php:125
+#: elementor/widgets/rt-gallery.php:77 elementor/widgets/rt-gallery.php:85
+#: elementor/widgets/rt-gallery.php:95 elementor/widgets/rt-gallery.php:142
+#: elementor/widgets/rt-gallery.php:158
+msgid "Hide"
+msgstr ""
+
+#: demo-importer.php:42
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer.php:47
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer.php:52
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer.php:57
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer.php:62
+msgid "Home 5"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr ""
+
+#: elementor/widgets/counter.php:61 elementor/widgets/counter.php:69
+#: elementor/widgets/info-box.php:60 elementor/widgets/info-box.php:69
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/counter.php:38
+msgid "Icon Align"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:77 elementor/widgets/counter.php:137
+#: elementor/widgets/info-box.php:93
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/counter.php:164
+msgid "Icon Font Size"
+msgstr ""
+
+#: elementor/widgets/info-box.php:83
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/counter.php:59 elementor/widgets/info-box.php:58
+msgid "Icon Type"
+msgstr ""
+
+#: elementor/widgets/counter.php:49
+msgid "Icon/image"
+msgstr ""
+
+#: post-meta.php:215 post-meta.php:220 post-meta.php:225 post-meta.php:230
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: post-meta.php:299
+msgid "If not selected, primary color will be used"
+msgstr ""
+
+#: elementor/widgets/slider.php:43 elementor/widgets/split-slider.php:90
+#: elementor/widgets/counter.php:76 elementor/widgets/about-image-text.php:56
+#: elementor/widgets/info-box.php:76 elementor/widgets/logo-slider.php:62
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/slider.php:44
+msgid "Image size should be 1920x820 px"
+msgstr ""
+
+#: elementor/widgets/info-box.php:19
+msgid "Info Box"
+msgstr ""
+
+#: post-meta.php:353
+msgid "Ingredents"
+msgstr ""
+
+#: demo-importer.php:27
+msgid "Install Demo Contents"
+msgstr ""
+
+#: post-meta.php:361
+msgid "Item"
+msgstr ""
+
+#: elementor/widgets/book-table.php:31
+msgid "Item Align"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:83
+#: elementor/widgets/woocommerce-set-menu.php:83
+msgid "Item Layout"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:86
+msgid "Item Limit"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:148
+#: elementor/widgets/woocommerce-tab-menu-2.php:116
+#: elementor/widgets/woocommerce-set-menu.php:116
+#: elementor/widgets/rt-gallery.php:126 elementor/widgets/recipe-grid.php:92
+msgid "Item Number"
+msgstr ""
+
+#: elementor/widgets/recipe-grid.php:83
+msgid "Last Modified Post"
+msgstr ""
+
+#: post-meta.php:35
+msgid "Layout"
+msgstr ""
+
+#: post-meta.php:82 post-meta.php:103 post-meta.php:116
+msgid "Layout 1"
+msgstr ""
+
+#: post-meta.php:83 post-meta.php:104 post-meta.php:117
+msgid "Layout 2"
+msgstr ""
+
+#: post-meta.php:84 post-meta.php:105 post-meta.php:118
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:106 post-meta.php:119
+msgid "Layout 4"
+msgstr ""
+
+#: post-meta.php:107 post-meta.php:120
+msgid "Layout 5"
+msgstr ""
+
+#: post-meta.php:32
+msgid "Layout Settings"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:46
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/counter.php:40
+msgid "left"
+msgstr ""
+
+#: post-meta.php:40
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:34 elementor/widgets/contact-box.php:34
+#: elementor/widgets/contact-box.php:89
+#: elementor/widgets/contact-address.php:34
+#: elementor/widgets/text-with-button.php:94
+#: elementor/widgets/testimonial.php:68 elementor/widgets/cta.php:44
+#: elementor/widgets/progress-circle.php:39
+msgid "Light Background"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:84 elementor/widgets/offer-box.php:76
+#: elementor/widgets/info-box.php:124
+msgid "Link (Optional)"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:86
+#: elementor/widgets/woocommerce-set-menu.php:86
+msgid "List"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:50
+msgid "Logo Grid"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:47
+msgid "Logo Layout"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:49
+msgid "Logo Slider"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:16
+msgid "Logo Slider and Grid"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:250 elementor/widgets/team-slider.php:279
+#: elementor/widgets/logo-slider.php:190
+msgid "Loop"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:254 elementor/widgets/team-slider.php:283
+#: elementor/widgets/logo-slider.php:194
+msgid "Loop to first item. Default: On"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:78
+#: elementor/widgets/about-image-text.php:63
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since printer "
+"took a galley. Rimply dummy text of the printing and typesetting industry"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:43 elementor/widgets/info-box.php:118
+msgid ""
+"Lorem Ipsum hasbeen standard daand scrambled. Rimply dummy text of the "
+"printing and typesetting industry"
+msgstr ""
+
+#: post-meta.php:52
+msgid "Main Menu"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:175
+#: elementor/widgets/woocommerce-tab-menu-2.php:140
+#: elementor/widgets/woocommerce-vertical-slider.php:101
+#: elementor/widgets/team-grid.php:108 elementor/widgets/testimonial.php:78
+#: elementor/widgets/woocommerce-set-menu.php:140
+#: elementor/widgets/rt-gallery.php:150 elementor/widgets/post-grid.php:81
+#: elementor/widgets/post-grid.php:88 elementor/widgets/team-slider.php:122
+#: elementor/widgets/recipe-grid.php:108
+msgid "Maximum number of words"
+msgstr ""
+
+#: elementor/widgets/upmenu.php:56
+msgid "Menu ID"
+msgstr ""
+
+#: elementor/widgets/book-table.php:49
+msgid "Monday to Tuesday"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:158
+#: elementor/widgets/team-grid.php:132
+#: elementor/widgets/woocommerce-set-menu.php:164
+#: elementor/widgets/rt-gallery.php:164 elementor/widgets/recipe-grid.php:113
+msgid "More Button"
+msgstr ""
+
+#: elementor/widgets/recipe-grid.php:84
+msgid "Most commented Post"
+msgstr ""
+
+#: elementor/widgets/recipe-grid.php:85
+msgid "Most viewed Post"
+msgstr ""
+
+#: elementor/widgets/slider.php:100 elementor/widgets/testimonial.php:190
+#: elementor/widgets/team-slider.php:219 elementor/widgets/logo-slider.php:130
+msgid "Navigation Arrow"
+msgstr ""
+
+#: elementor/widgets/slider.php:109 elementor/widgets/logo-slider.php:139
+msgid "Navigation Dot"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:199 elementor/widgets/team-slider.php:228
+msgid "Navigation Dots"
+msgstr ""
+
+#: elementor/widgets/nav-menu.php:17 elementor/widgets/nav-menu.php:46
+msgid "Navigation Manu"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:26 elementor/widgets/title.php:29
+msgid "News Title"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:73
+msgid ""
+"Nimply dummy text of the printing and typesetting industr yorem Ipsum has "
+"been the industrys standard."
+msgstr ""
+
+#: elementor/views/post-grid-1.php:134
+msgid "No Post Found"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:181
+#: elementor/widgets/woocommerce-set-menu.php:145
+msgid "Number of Post Offset"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:183
+#: elementor/widgets/woocommerce-set-menu.php:146
+msgid "Number of Post you want to exclude from showing"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:186
+#: elementor/widgets/team-grid.php:160 elementor/widgets/testimonial.php:140
+#: elementor/widgets/woocommerce-set-menu.php:192
+#: elementor/widgets/rt-gallery.php:194 elementor/widgets/post-grid.php:105
+#: elementor/widgets/team-slider.php:151 elementor/widgets/recipe-grid.php:142
+#: elementor/widgets/logo-slider.php:79
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: post-meta.php:348
+msgid "Number of Serving People"
+msgstr ""
+
+#: post-meta.php:378
+msgid "Nutrition"
+msgstr ""
+
+#: post-meta.php:391
+msgid "Nutrition Item"
+msgstr ""
+
+#: elementor/widgets/slider.php:102 elementor/widgets/slider.php:111
+#: elementor/widgets/slider.php:120 elementor/widgets/contact-box.php:80
+#: elementor/widgets/text-with-button.php:85
+#: elementor/widgets/woocommerce-vertical-slider.php:81
+#: elementor/widgets/team-grid.php:86 elementor/widgets/team-grid.php:116
+#: elementor/widgets/team-grid.php:125 elementor/widgets/testimonial.php:110
+#: elementor/widgets/testimonial.php:119 elementor/widgets/testimonial.php:128
+#: elementor/widgets/testimonial.php:192 elementor/widgets/testimonial.php:201
+#: elementor/widgets/testimonial.php:210 elementor/widgets/testimonial.php:219
+#: elementor/widgets/testimonial.php:252
+#: elementor/widgets/about-image-text.php:70
+#: elementor/widgets/team-slider.php:100 elementor/widgets/team-slider.php:130
+#: elementor/widgets/team-slider.php:139 elementor/widgets/team-slider.php:221
+#: elementor/widgets/team-slider.php:230 elementor/widgets/team-slider.php:239
+#: elementor/widgets/team-slider.php:248 elementor/widgets/team-slider.php:281
+#: elementor/widgets/logo-slider.php:132 elementor/widgets/logo-slider.php:141
+#: elementor/widgets/logo-slider.php:150 elementor/widgets/logo-slider.php:159
+#: elementor/widgets/logo-slider.php:192
+msgid "Off"
+msgstr ""
+
+#: elementor/widgets/slider.php:101 elementor/widgets/slider.php:110
+#: elementor/widgets/slider.php:119 elementor/widgets/contact-box.php:79
+#: elementor/widgets/text-with-button.php:84
+#: elementor/widgets/woocommerce-vertical-slider.php:80
+#: elementor/widgets/team-grid.php:85 elementor/widgets/team-grid.php:115
+#: elementor/widgets/team-grid.php:124 elementor/widgets/testimonial.php:109
+#: elementor/widgets/testimonial.php:118 elementor/widgets/testimonial.php:127
+#: elementor/widgets/testimonial.php:191 elementor/widgets/testimonial.php:200
+#: elementor/widgets/testimonial.php:209 elementor/widgets/testimonial.php:218
+#: elementor/widgets/testimonial.php:251
+#: elementor/widgets/about-image-text.php:69
+#: elementor/widgets/team-slider.php:99 elementor/widgets/team-slider.php:129
+#: elementor/widgets/team-slider.php:138 elementor/widgets/team-slider.php:220
+#: elementor/widgets/team-slider.php:229 elementor/widgets/team-slider.php:238
+#: elementor/widgets/team-slider.php:247 elementor/widgets/team-slider.php:280
+#: elementor/widgets/logo-slider.php:131 elementor/widgets/logo-slider.php:140
+#: elementor/widgets/logo-slider.php:149 elementor/widgets/logo-slider.php:158
+#: elementor/widgets/logo-slider.php:191
+msgid "On"
+msgstr ""
+
+#: post-meta.php:248
+msgid "Only work for the video post format"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:123
+#: elementor/widgets/woocommerce-tab-menu-2.php:93
+#: elementor/widgets/woocommerce-vertical-slider.php:68
+#: elementor/widgets/team-grid.php:73 elementor/widgets/testimonial.php:97
+#: elementor/widgets/woocommerce-set-menu.php:93
+#: elementor/widgets/rt-gallery.php:103 elementor/widgets/post-grid.php:61
+#: elementor/widgets/team-slider.php:87
+msgid "Order By"
+msgstr ""
+
+#: post-meta.php:228
+msgid "Page/Post Background Color"
+msgstr ""
+
+#: post-meta.php:223
+msgid "Page/Post Background Image"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:42
+msgid "Percentage"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:48
+msgid "Percentage Height"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:54
+msgid "Phone 1"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:60
+msgid "Phone 2"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:59
+#: elementor/widgets/contact-address.php:48
+msgid "Phone no"
+msgstr ""
+
+#: elementor/widgets/cta.php:65
+msgid "Phone Number"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:212
+#: elementor/widgets/team-grid.php:186 elementor/widgets/testimonial.php:166
+#: elementor/widgets/woocommerce-set-menu.php:218
+#: elementor/widgets/rt-gallery.php:220 elementor/widgets/post-grid.php:132
+#: elementor/widgets/team-slider.php:178 elementor/widgets/recipe-grid.php:168
+#: elementor/widgets/logo-slider.php:105
+msgid "Phones: < 768px"
+msgstr ""
+
+#: elementor/widgets/offer-box.php:46
+msgid "PIZZA OF THE DAY"
+msgstr ""
+
+#: elementor/widgets/cta.php:53
+msgid "Please Call Us For Order"
+msgstr ""
+
+#: post-meta.php:401
+msgid "Please upload the PDF file here(optional)"
+msgstr ""
+
+#: elementor/widgets/cta.php:59
+msgid ""
+"Porem ipsum dolor sit amet, consectetur adipisicing elitProin nibh "
+"auguesuscipit scelerisque."
+msgstr ""
+
+#: elementor/widgets/post-grid.php:17
+msgid "Post Grid"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:194
+#: elementor/widgets/woocommerce-tab-menu-2.php:150
+#: elementor/widgets/woocommerce-set-menu.php:156
+msgid "Post ID"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:137
+#: elementor/widgets/woocommerce-tab-menu-2.php:106
+#: elementor/widgets/woocommerce-set-menu.php:106
+#: elementor/widgets/rt-gallery.php:116 elementor/widgets/recipe-grid.php:68
+msgid "Post Ordering"
+msgstr ""
+
+#: elementor/widgets/recipe-grid.php:79
+msgid "Post Sorting"
+msgstr ""
+
+#: post-meta.php:333
+msgid "Preparation Time"
+msgstr ""
+
+#: elementor/widgets/offer-box.php:123
+msgid "Price Color"
+msgstr ""
+
+#: elementor/widgets/offer-box.php:64
+msgid "Price( Decimal part )"
+msgstr ""
+
+#: elementor/widgets/offer-box.php:58
+msgid "Price( Full number )"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:17
+msgid "Progress Bar"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:17
+msgid "Progress Circle"
+msgstr ""
+
+#: post-meta.php:366
+msgid "Quantity"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: elementor/init.php:93
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:128
+#: elementor/widgets/woocommerce-tab-menu-2.php:98
+#: elementor/widgets/woocommerce-set-menu.php:98
+#: elementor/widgets/rt-gallery.php:108 elementor/widgets/recipe-grid.php:82
+msgid "Random Post"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:117
+msgid "Ratting Display"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:78
+msgid "Read More"
+msgstr ""
+
+#: post-meta.php:343
+msgid "Ready In"
+msgstr ""
+
+#: elementor/widgets/recipe-grid.php:81
+msgid "Recent Post"
+msgstr ""
+
+#: post-types.php:29 post-types.php:30
+msgid "Recipe"
+msgstr ""
+
+#: post-types.php:60
+msgid "Recipe Categories"
+msgstr ""
+
+#: post-types.php:59
+msgid "Recipe Category"
+msgstr ""
+
+#: elementor/widgets/recipe-grid.php:16
+msgid "Recipe Grid"
+msgstr ""
+
+#: post-meta.php:330
+msgid "Recipe Information"
+msgstr ""
+
+#: post-meta.php:399
+msgid "Recipe PDF"
+msgstr ""
+
+#: post-meta.php:416
+msgid "Recipe Social Share"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:91 elementor/widgets/split-slider.php:115
+msgid "Recommended image size is 1000px X 1300px"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:57
+msgid "Recommended image size is 490x600 px"
+msgstr ""
+
+#: elementor/widgets/counter.php:78 elementor/widgets/info-box.php:78
+msgid "Recommended image size is 67x67 px"
+msgstr ""
+
+#: elementor/widgets/faq.php:50
+msgid ""
+"Restaurant mply dummy text of the printing and typesetting industry. Lorem "
+"Ipsum has been the industrd dummy when an unknown printer took a galley of "
+"type and scrambled it to make a type specimen book.Restaurant mply dummy "
+"text of the printing and typesetting industry. Lorem Ipsum has been the "
+"industrd dummy when an unknown printer."
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:48 elementor/widgets/counter.php:42
+msgid "Right"
+msgstr ""
+
+#: post-meta.php:41
+msgid "Right Sidebar"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:16
+msgid "RT Divider"
+msgstr ""
+
+#: elementor/widgets/faq.php:16
+msgid "RT Faq"
+msgstr ""
+
+#: elementor/widgets/offer-box.php:19
+msgid "RT Offer Box"
+msgstr ""
+
+#: elementor/widgets/title.php:19
+msgid "RT Section Title"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:116
+#: elementor/widgets/team-grid.php:210 elementor/widgets/team-slider.php:202
+msgid "Section Item Background"
+msgstr ""
+
+#: post-meta.php:440
+msgid "Select the Rating"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:236 elementor/widgets/team-slider.php:265
+#: elementor/widgets/logo-slider.php:176
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:51
+#: elementor/widgets/woocommerce-set-menu.php:51
+msgid "Set Menu Slider"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:50
+#: elementor/widgets/woocommerce-set-menu.php:50
+msgid "Set Menu Tab"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:157 elementor/widgets/title.php:60
+#: elementor/widgets/woocommerce-tab-menu-2.php:75
+#: elementor/widgets/woocommerce-tab-menu-2.php:124
+#: elementor/widgets/text-with-button.php:57 elementor/widgets/counter.php:51
+#: elementor/widgets/woocommerce-set-menu.php:75
+#: elementor/widgets/woocommerce-set-menu.php:124
+#: elementor/widgets/rt-gallery.php:76 elementor/widgets/rt-gallery.php:84
+#: elementor/widgets/rt-gallery.php:94 elementor/widgets/rt-gallery.php:141
+#: elementor/widgets/rt-gallery.php:157
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:92
+msgid "Show All Button"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:170
+#: elementor/widgets/team-grid.php:144
+#: elementor/widgets/woocommerce-set-menu.php:176
+#: elementor/widgets/rt-gallery.php:177 elementor/widgets/recipe-grid.php:125
+msgid "SHOW MORE"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:82
+#: elementor/widgets/text-with-button.php:87
+#: elementor/widgets/woocommerce-vertical-slider.php:83
+#: elementor/widgets/team-grid.php:88 elementor/widgets/about-image-text.php:72
+#: elementor/widgets/team-slider.php:102
+msgid "Show or Hide Content. Default: off"
+msgstr ""
+
+#: elementor/widgets/team-grid.php:118 elementor/widgets/testimonial.php:112
+#: elementor/widgets/team-slider.php:132
+msgid "Show or Hide Designation. Default: On"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:121
+msgid "Show or Hide Ratting. Default: On"
+msgstr ""
+
+#: elementor/widgets/team-grid.php:127 elementor/widgets/team-slider.php:141
+msgid "Show or Hide Social Medias. Default: On"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:130
+msgid "Show or Hide Thumbs. Default: On"
+msgstr ""
+
+#: post-meta.php:404
+msgid "Show Other Recipes"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:161
+#: elementor/widgets/team-grid.php:135
+#: elementor/widgets/woocommerce-set-menu.php:167
+#: elementor/widgets/rt-gallery.php:167 elementor/widgets/recipe-grid.php:116
+msgid "Show Pagination"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:160
+#: elementor/widgets/team-grid.php:134
+#: elementor/widgets/woocommerce-set-menu.php:166
+#: elementor/widgets/rt-gallery.php:166 elementor/widgets/recipe-grid.php:115
+msgid "Show Read More"
+msgstr ""
+
+#: post-meta.php:297
+msgid "Skill Color"
+msgstr ""
+
+#: post-meta.php:287
+msgid "Skill Name"
+msgstr ""
+
+#: post-meta.php:292
+msgid "Skill Percentage (%)"
+msgstr ""
+
+#: elementor/widgets/slider.php:155
+msgid "Slide Pause Time. Default: 3000"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:244 elementor/widgets/team-slider.php:273
+#: elementor/widgets/logo-slider.php:184
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: elementor/widgets/slider.php:148
+msgid "Slide speed in milliseconds. Default: 500"
+msgstr ""
+
+#: elementor/widgets/slider.php:146
+msgid "Slider Animatin Speed"
+msgstr ""
+
+#: elementor/widgets/slider.php:127
+msgid "Slider Effect"
+msgstr ""
+
+#: elementor/widgets/slider.php:141
+msgid "Slider Effect. Default: boxRainReverse"
+msgstr ""
+
+#: elementor/widgets/slider.php:95 elementor/widgets/testimonial.php:185
+#: elementor/widgets/team-slider.php:213 elementor/widgets/logo-slider.php:124
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/widgets/slider.php:153
+msgid "Slider Pause Time"
+msgstr ""
+
+#: elementor/widgets/team-grid.php:193 elementor/widgets/testimonial.php:173
+#: elementor/widgets/team-slider.php:185 elementor/widgets/logo-slider.php:112
+msgid "Small Phones: < 480px"
+msgstr ""
+
+#: elementor/widgets/team-grid.php:123 elementor/widgets/team-slider.php:137
+msgid "Social Media Display"
+msgstr ""
+
+#: post-meta.php:269 post-meta.php:419
+msgid "Socials"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:52
+msgid "Split - Mutli tab"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:53
+msgid "Split - Woocommerce"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:16
+msgid "Split Slider"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:221 elementor/widgets/team-slider.php:250
+#: elementor/widgets/logo-slider.php:161
+msgid "Stop autoplay on mouse hover. Default: On"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:217 elementor/widgets/team-slider.php:246
+#: elementor/widgets/logo-slider.php:157
+msgid "Stop on Hover"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:50
+#: elementor/widgets/text-with-button.php:122
+#: elementor/widgets/team-grid.php:49 elementor/widgets/offer-box.php:92
+#: elementor/widgets/testimonial.php:55 elementor/widgets/rt-gallery.php:55
+#: elementor/widgets/about-image-text.php:96 elementor/widgets/post-grid.php:51
+#: elementor/widgets/info-box.php:34 elementor/widgets/info-box.php:142
+#: elementor/widgets/team-slider.php:61 elementor/widgets/recipe-grid.php:48
+#: elementor/widgets/progress-circle.php:100
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/team-grid.php:51 elementor/widgets/testimonial.php:57
+#: elementor/widgets/rt-gallery.php:57 elementor/widgets/post-grid.php:53
+#: elementor/widgets/cta.php:34 elementor/widgets/info-box.php:36
+#: elementor/widgets/team-slider.php:63 elementor/widgets/recipe-grid.php:50
+msgid "Style 1"
+msgstr ""
+
+#: elementor/widgets/team-grid.php:52 elementor/widgets/testimonial.php:58
+#: elementor/widgets/rt-gallery.php:58 elementor/widgets/post-grid.php:54
+#: elementor/widgets/cta.php:35 elementor/widgets/info-box.php:37
+#: elementor/widgets/team-slider.php:64 elementor/widgets/recipe-grid.php:51
+msgid "Style 2"
+msgstr ""
+
+#: elementor/widgets/info-box.php:38 elementor/widgets/team-slider.php:65
+msgid "Style 3"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:59
+msgid "Style 3 ( Grid Layout )"
+msgstr ""
+
+#: elementor/widgets/info-box.php:39 elementor/widgets/team-slider.php:66
+msgid "Style 4"
+msgstr ""
+
+#: elementor/widgets/info-box.php:40
+msgid "Style 5"
+msgstr ""
+
+#: elementor/widgets/title.php:75 elementor/widgets/text-with-button.php:71
+#: elementor/widgets/about-image-text.php:50
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/title.php:117 elementor/widgets/text-with-button.php:148
+#: elementor/widgets/offer-box.php:114
+#: elementor/widgets/about-image-text.php:122
+msgid "Sub Title Color"
+msgstr ""
+
+#: elementor/widgets/title.php:91 elementor/widgets/text-with-button.php:136
+#: elementor/widgets/about-image-text.php:110
+msgid "Sub Title Style"
+msgstr ""
+
+#: post-meta.php:235 post-meta.php:240 post-meta.php:382
+#: elementor/widgets/offer-box.php:51
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/slider.php:67
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor/widgets/slider.php:61
+msgid "Subtitle(For desktop and tab)"
+msgstr ""
+
+#: elementor/widgets/slider.php:73
+msgid "Subtitle(For mobile)"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:114
+msgid "Tab Image"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:205
+#: elementor/widgets/team-grid.php:179 elementor/widgets/testimonial.php:159
+#: elementor/widgets/woocommerce-set-menu.php:211
+#: elementor/widgets/rt-gallery.php:213 elementor/widgets/post-grid.php:125
+#: elementor/widgets/team-slider.php:171 elementor/widgets/recipe-grid.php:161
+#: elementor/widgets/logo-slider.php:98
+msgid "Tablets: > 767px"
+msgstr ""
+
+#: post-types.php:23
+msgid "Team"
+msgstr ""
+
+#: post-types.php:55
+msgid "Team Categories"
+msgstr ""
+
+#: post-types.php:54
+msgid "Team Category"
+msgstr ""
+
+#: elementor/widgets/team-grid.php:18
+msgid "Team Grid"
+msgstr ""
+
+#: post-types.php:19
+msgid "Team Member"
+msgstr ""
+
+#: post-meta.php:306
+msgid "Team Member Counter"
+msgstr ""
+
+#: post-meta.php:258
+msgid "Team Member Settings"
+msgstr ""
+
+#: post-meta.php:280
+msgid "Team Member Skills"
+msgstr ""
+
+#: post-types.php:20
+msgid "Team Members"
+msgstr ""
+
+#: elementor/widgets/team-slider.php:18
+msgid "Team Slider"
+msgstr ""
+
+#: post-types.php:44 elementor/widgets/testimonial.php:17
+msgid "Testimonial"
+msgstr ""
+
+#: post-types.php:70
+msgid "Testimonial Categories"
+msgstr ""
+
+#: post-types.php:69
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-meta.php:433
+msgid "Testimonial Info"
+msgstr ""
+
+#: post-types.php:45
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:72 elementor/widgets/book-table.php:54
+#: elementor/widgets/faq.php:49
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:44
+msgid "Text Align"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:34
+msgid "Text Style"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:36
+msgid "Text Style 1"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:37
+msgid "Text Style 2"
+msgstr ""
+
+#: elementor/widgets/counter.php:97 elementor/widgets/progress-circle.php:85
+msgid "The total duration of the count animation in milisecond eg. 5000"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:66 elementor/widgets/cta.php:42
+#: elementor/widgets/progress-circle.php:37
+msgid "Theme"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:32 elementor/widgets/contact-box.php:32
+#: elementor/widgets/contact-address.php:32
+msgid "Theme Style"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:126
+msgid "Thumbs Display"
+msgstr ""
+
+#: elementor/widgets/slider.php:49 elementor/widgets/split-slider.php:66
+#: elementor/widgets/split-slider.php:126 elementor/widgets/title.php:69
+#: elementor/widgets/woocommerce-tab-menu-2.php:96
+#: elementor/widgets/text-with-button.php:65
+#: elementor/widgets/woocommerce-vertical-slider.php:71
+#: elementor/widgets/team-grid.php:76 elementor/widgets/counter.php:83
+#: elementor/widgets/offer-box.php:45 elementor/widgets/testimonial.php:100
+#: elementor/widgets/woocommerce-set-menu.php:96
+#: elementor/widgets/rt-gallery.php:106
+#: elementor/widgets/about-image-text.php:44 elementor/widgets/post-grid.php:64
+#: elementor/widgets/cta.php:52 elementor/widgets/nav-menu.php:40
+#: elementor/widgets/book-table.php:48 elementor/widgets/info-box.php:103
+#: elementor/widgets/info-box.php:110 elementor/widgets/faq.php:43
+#: elementor/widgets/team-slider.php:90 elementor/widgets/progress-bar.php:36
+#: elementor/widgets/progress-circle.php:71
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/contact-box.php:42 elementor/widgets/title.php:46
+#: elementor/widgets/offer-box.php:34 elementor/widgets/info-box.php:47
+msgid "Title Align"
+msgstr ""
+
+#: elementor/widgets/title.php:58 elementor/widgets/text-with-button.php:55
+msgid "Title Bar"
+msgstr ""
+
+#: elementor/widgets/title.php:107 elementor/widgets/text-with-button.php:154
+msgid "Title Bar Color"
+msgstr ""
+
+#: elementor/widgets/slider.php:55 elementor/widgets/title.php:98
+#: elementor/widgets/text-with-button.php:142 elementor/widgets/counter.php:119
+#: elementor/widgets/offer-box.php:105
+#: elementor/widgets/about-image-text.php:116
+#: elementor/widgets/info-box.php:155
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/counter.php:146
+msgid "Title Font Size"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:166
+#: elementor/widgets/woocommerce-tab-menu-2.php:132
+#: elementor/widgets/woocommerce-set-menu.php:132
+msgid "Title Length - blank means no limit"
+msgstr ""
+
+#: elementor/widgets/title.php:35 elementor/widgets/title.php:84
+#: elementor/widgets/text-with-button.php:129
+#: elementor/widgets/offer-box.php:99
+#: elementor/widgets/about-image-text.php:103
+#: elementor/widgets/info-box.php:149
+msgid "Title Style"
+msgstr ""
+
+#: elementor/widgets/title.php:37
+msgid "Title Style 1"
+msgstr ""
+
+#: elementor/widgets/title.php:38
+msgid "Title Style 2"
+msgstr ""
+
+#: elementor/widgets/title.php:39
+msgid "Title Style 3"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:19
+msgid "Title Text With Button"
+msgstr ""
+
+#: post-meta.php:68
+msgid "Top Bar"
+msgstr ""
+
+#: post-meta.php:78
+msgid "Top Bar Layout"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:54
+#: elementor/widgets/team-grid.php:59 elementor/widgets/testimonial.php:83
+#: elementor/widgets/team-slider.php:73
+msgid "Total number of items"
+msgstr ""
+
+#: post-meta.php:58
+msgid "Transparent Header"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:48
+#: elementor/widgets/woocommerce-set-menu.php:48
+msgid "Type"
+msgstr ""
+
+#: post-meta.php:371
+msgid "Unit"
+msgstr ""
+
+#: elementor/widgets/upmenu.php:18
+msgid "Upmenu"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:67
+msgid "URL(optional)"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:150
+#: elementor/widgets/woocommerce-tab-menu-2.php:118
+#: elementor/widgets/woocommerce-set-menu.php:118
+#: elementor/widgets/rt-gallery.php:128 elementor/widgets/recipe-grid.php:94
+msgid "Use -1 for showing all items"
+msgstr ""
+
+#: elementor/widgets/offer-box.php:71
+msgid "Vegetable, Cheese Pizza , Beef Strome"
+msgstr ""
+
+#: elementor/widgets/video.php:16
+msgid "Video"
+msgstr ""
+
+#: elementor/widgets/video.php:35
+msgid "Video URL"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:79
+msgid "View All Projects"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:67
+msgid "Virtual MockUp"
+msgstr ""
+
+#: demo-importer.php:34
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website."
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:66
+msgid "Wellcome To Foodcart"
+msgstr ""
+
+#: elementor/widgets/faq.php:44
+msgid "What shipping methods are available?"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:48
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/woocommerce-tab-menu-2.php:16
+msgid "Woocommerce Menu Tab 2"
+msgstr ""
+
+#: elementor/widgets/woocommerce-set-menu.php:16
+msgid "Woocommerce Set Menu Tab"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:18
+msgid "Woocommerce vertical Slider"
+msgstr ""
+
+#: elementor/widgets/split-slider.php:173
+#: elementor/widgets/woocommerce-tab-menu-2.php:138
+#: elementor/widgets/woocommerce-vertical-slider.php:99
+#: elementor/widgets/team-grid.php:106 elementor/widgets/testimonial.php:76
+#: elementor/widgets/woocommerce-set-menu.php:138
+#: elementor/widgets/rt-gallery.php:148 elementor/widgets/post-grid.php:79
+#: elementor/widgets/team-slider.php:120 elementor/widgets/recipe-grid.php:106
+msgid "Word count"
+msgstr ""
+
+#: elementor/widgets/woocommerce-vertical-slider.php:56
+#: elementor/widgets/team-grid.php:61 elementor/widgets/testimonial.php:85
+#: elementor/widgets/team-slider.php:75
+msgid "Write -1 to show all"
+msgstr ""
+
+#: post-meta.php:245
+msgid "Youtube Link"
+msgstr ""
