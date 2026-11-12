@@ -3,7 +3,7 @@
 Plugin Name: Foodcart Core
 Plugin URI: https://www.radiustheme.com
 Description: Foodcart Core Plugin for Foodcart Theme
-Version: 2.2
+Version: 2.3
 Author: RadiusTheme
 Author URI: https://www.radiustheme.com
 */
