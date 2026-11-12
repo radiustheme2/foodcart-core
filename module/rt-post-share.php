@@ -58,6 +58,7 @@ function foodcart_post_share() {
 			'print' => array(
 				'url'   => '#',
 				'text'  => esc_html__( 'Print', 'foodcart' ),
+                'icon'  => 'fa-solid fa-print',
 			),
 		);
 
@@ -83,7 +84,11 @@ function foodcart_post_share() {
 					$button['url'] = esc_url( $button['url'] );
 				}
 
-				$active_share_buttons[] = '<a href="'. $button['url'] .'" rel="external" target="_blank" class="'. $network.'-share-button' . $button_class .'"><span class="'. $icon .'"></span></a>';
+				if( 'print' === $network ){
+					$active_share_buttons[] = '<a href="'. $button['url'] .'" onclick="window.print(); return false;" class="'. $network.'-share-button' . $button_class .'"><span class="'. $icon .'"></span></a>';
+				} else {
+					$active_share_buttons[] = '<a href="'. $button['url'] .'" rel="external" target="_blank" class="'. $network.'-share-button' . $button_class .'"><span class="'. $icon .'"></span></a>';
+				}
 		}
 
 		if( is_array( $active_share_buttons ) && ! empty( $active_share_buttons ) ){ ?>
