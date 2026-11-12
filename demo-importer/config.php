@@ -110,11 +110,15 @@ return [
 	'pre_import_options'   => [
 		'elementor_experiment-e_font_icon_svg'    => 'inactive',
 		'elementor_experiment-e_optimized_markup' => 'inactive',
+		'tpl_food_menu_settings' => [
+			'fmp_food_reservation_status' => 'on',
+		],
 	],
 
 	// Post-import options.
 	'post_import_options'  => [
 		'elementor_allow_unfiltered_files' => true,
+		'elementor_unfiltered_files_upload' => true,
 		'posts_per_page'                   => 6,
 	],
 	'max_execution_time' => '1200',
